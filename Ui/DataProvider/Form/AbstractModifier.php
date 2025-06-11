@@ -33,7 +33,7 @@ class AbstractModifier implements \Magento\Ui\DataProvider\Modifier\ModifierInte
     protected $_factoryCollection;
 
     /**
-     * @var BlueFormBuilder\Core\Data\Form\Element\Data\Form\Element\Collection
+     * @var Cytracon\BlueFormBuilderCore\Data\Form\Element\Data\Form\Element\Collection
      */
     protected $_elements;
 
